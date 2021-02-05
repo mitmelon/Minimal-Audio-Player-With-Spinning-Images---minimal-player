@@ -34,7 +34,7 @@ data-src="song1.mp3": path to the song
 
 You can load this from your database.
 
-```
+```html
 <div class="player">
   <div class="player__bar">
       <div class="player__album">
